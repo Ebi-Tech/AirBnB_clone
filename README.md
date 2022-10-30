@@ -276,5 +276,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Great Okotie**
+* **Great Okotie** <[great200-cyber](https://github.com/great200-cyber)>
 * **Divine Ifechukwude** <[Ebi-Tech](https://github.com/Ebi-Tech)>
